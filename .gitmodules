@@ -1,0 +1,3 @@
+[submodule "sub-sch"]
+	path = sub-sch
+	url = git@github.com:dzhgenti/sub-sch.git
